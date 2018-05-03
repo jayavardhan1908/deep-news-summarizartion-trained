@@ -1,0 +1,505 @@
+BLEU score
+Predicted headline
+True headline
+article
+-------------------------------------------------
+1.0
+Stocks higher at close in Tokyo
+Stocks higher at close in Tokyo
+The Nikkei Stock Average of 225 issues closed at 10,994.96 points on the Tokyo Stock Exchange Wednesday, up 30.09 points, or 0.27 percent, from Tuesday.
+-------------------------------------------------
+1.0
+Asian stock markets close mostly higher
+Asian stock markets close mostly higher
+Asian stock markets closed mostly higher Friday on the back of gains on Wall Street following a drop in oil prices.
+-------------------------------------------------
+1.0
+Developments in Iraq
+Developments in Iraq
+Developments in Iraq on Saturday:
+-------------------------------------------------
+1.0
+Serie A scoring leaders
+Serie A scoring leaders
+Leading scorers in Italy's Serie A following Sunday's Round 13 matches (penalties in parentheses):
+-------------------------------------------------
+1.0
+Gold opens lower in Hong Kong
+Gold opens lower in Hong Kong
+Gold opened at US$436.35 an ounce on Tuesday in Hong Kong, down US$2.50 an ounce from Monday's close of US$438.85.
+-------------------------------------------------
+1.0
+Explosions heard in Baghdad
+Explosions heard in Baghdad
+Several explosions were heard Monday in Baghdad.
+-------------------------------------------------
+1.0
+Dollar higher against yen in Tokyo
+Dollar higher against yen in Tokyo
+The U.S. dollar was trading at 102.78 yen on the Tokyo foreign exchange market at 9 a.m. (0000 GMT) Monday, up 0.26 yen from late Friday.
+-------------------------------------------------
+0.8
+Stocks lower in Mexico , Brazil , Brazil , Chile
+Stocks down in Mexico, Brazil, Argentina, Chile
+Mexican stocks closed lower Monday as investors took some profits after a recent string of record high closes.
+-------------------------------------------------
+0.75
+Pakistan ' s prime minister arrives in Nepal
+Pakistan prime minister arrives in Nepal
+"Pakistani Prime Minister Shaukat Aziz arrived in Nepal on Monday for a two-day official visit to this Himalayan kingdom to discuss regional and bilateral issues."
+-------------------------------------------------
+0.7142857142857143
+European stocks end lower as earnings fall
+European stocks end lower as pharmaceuticals retreat
+European stocks ended lower Friday, with pharmaceutical stocks leading the retreat after a U.S. Food and Drug Administration official raised concerns about five medications on the market.
+-------------------------------------------------
+0.7142857142857143
+At the Movies : ' _UNK '
+At the Movies: `Bad Education'
+"Superficially, ""Bad Education"" comes off as a collection of Pedro Almodovar's greatest hits _ junkies and drag queens and Catholics, oh my! _ with an everything-but-the-kitchen-sink denseness about it."
+-------------------------------------------------
+0.6872892787909722
+U . S . soldier killed in Iraq
+U.S. soldier killed in combat in northern Iraq
+A U.S. soldier was killed during fighting in northern Iraq, the U.S. military said.
+-------------------------------------------------
+0.6666666666666666
+Kidnapped kidnappers released in southern Philippines
+Italian hostage released in southern Philippines
+An Italian aid worker abducted in the southern Philippines was released unharmed early Wednesday after Muslim separatist rebels helped authorities corner the kidnappers, the military said.
+-------------------------------------------------
+0.6666666666666666
+Bus crash kills 00 in Bangladesh
+Bus collision kills 11 in Bangladesh
+"Two buses collided head-on in eastern Bangladesh Monday, killing at least 11 people as they headed to their homes to celebrate the Muslim holiday of Eid-al-Fitr, police said."
+-------------------------------------------------
+0.6
+Dollar down , gold up
+Dollar falls, gold rises
+The U.S. dollar sank to another record low against the euro in European trading Wednesday morning. Gold prices rose.
+-------------------------------------------------
+0.6
+URGENT Nicaragua ' s party claims victory in victory in
+Sandinista candidate claims victory in Nicaragua's mayoral elections
+"The candidate for Nicaragua's leftist Sandinista Front claimed victory Monday in weekend mayoral elections in the capital, saying ""the future would triumph over the past."""
+-------------------------------------------------
+0.6
+Moderate earthquake jolts northeastern Turkey
+Moderate earthquake shakes western Turkey
+A moderate earthquake shook western Turkey on Friday, a seismology center said. There were no immediate reports of any damage or casualties.
+-------------------------------------------------
+0.5731115271545874
+Arafat calls for new report on Arafat ' s death
+Palestinian prime minister asks France for report on Arafat's death
+Palestinian Prime Minister Ahmed Qureia has formally requested that France publish the medical records of Yasser Arafat following his death last week, Qureia said Tuesday.
+-------------------------------------------------
+0.5643211499270759
+Gunmen kill provincial provincial council chief
+Gunmen kill provincial council member in Samarra
+Gunmen on Tuesday fatally shot a provincial council member in central Iraq as he was breaking his fast in a restaurant, police and hospital officials said.
+-------------------------------------------------
+0.5555555555555556
+Three killed , one injured in gold mine collapse
+Three killed in mine collapse in South Africa
+Three miners were killed and one injured after a shaft collapsed in a gold mine outside Johannesburg on Saturday.
+-------------------------------------------------
+0.5555555555555556
+Jury finds Enron executives guilty of Enron fraud case
+Five executives convicted of fraud in Enron barge case
+"A jury convicted four one-time Merrill Lynch executives and a former midlevel Enron Corp. finance executive of conspiracy and fraud in the first criminal trial of Enron and Wall Street executives for their role in the energy company's 2001 collapse."
+-------------------------------------------------
+0.5555555555555556
+Seven killed , nine injured in Pakistan road accident
+Nine killed in Pakistan road accident
+A truck rammed into a minibus in a remote area of eastern Pakistan on Thursday, killing at least nine passengers and injuring nine others, police said.
+-------------------------------------------------
+0.5555555555555556
+_UNK recalled to Brazil squad for World Cup qualifier
+Brazil summons Pedrinho for World Cup qualifier
+"Palmeiras midfielder Pedrinho was summoned to complete Brazil's injury-riddled squad for next week's World Cup qualifier against Ecuador."
+-------------------------------------------------
+0.5384615384615384
+URGENT Court : Tiger politician shot dead in Sri Lanka ' s largest
+High court judge shot dead in Sri Lanka's capital
+A high court judge who took a tough stand against Tamil Tiger rebels was fatally shot outside his home in Sri Lanka's capital, as the government questioned the guerrillas' commitment to efforts to end the island's civil war.
+-------------------------------------------------
+0.5
+Sri Lankan Tamil rebels hold peace talks with Sri Lanka
+Tamil Tigers contact Sri Lankan president about reviving peace talks
+"The chief of Sri Lanka's Tamil Tiger rebels sent a message to the country's president Thursday offering ways to revive stalled peace talks aimed at ending a two-decade civil war, officials said."
+-------------------------------------------------
+0.5
+Wednesday , November 00
+Monday, November 22
+Today is Monday, November 22, the 326th day of 2004. There are 39 days left in the year.
+-------------------------------------------------
+0.5
+Three U . S . military officers killed in ambush
+Car bombs hit U.S. Marines in Ramadi
+"Five U.S. troops were wounded when Marines shot at and destroyed two suspected car bombs in the insurgent-heavy city of Ramadi, killing seven insurgents, the U.S. military said Tuesday."
+-------------------------------------------------
+0.5
+Glaxo shareholders approve shareholders ' bid for takeover of stock
+Harmony shareholders approve new shares for Gold Fields takeover bid
+Shareholders of Harmony Gold Mining Co. on Friday overwhelmingly approved issuing new shares to fund the company's hostile takeover bid for Gold Fields Ltd.
+-------------------------------------------------
+0.5
+Berlusconi ' s Berlusconi faces new referendum with Berlusconi '
+Italy's Berlusconi faces tough negotiation with coalition partners
+Italian Premier Silvio Berlusconi faced a tricky meeting with coalition allies Tuesday night as he seeks to name a new foreign minister and win support for disputed tax cut plans.
+-------------------------------------------------
+0.5
+London share prices close higher Eds : UPDATES with closing
+London share prices close higher
+Share prices rose Wednesday on the London Stock Exchange.
+-------------------------------------------------
+0.5
+Iran releases 000 Pakistanis detained for illegal immigrants
+Iran frees 193 Pakistanis arrested for illegal entry
+Iran on Saturday freed 193 Pakistanis who had been arrested for allegedly entering the country illegally, a Pakistani immigration official said.
+-------------------------------------------------
+0.5
+Opposition calls for early results in early elections
+Czech opposition calls for early elections
+The opposition Civic Democratic Party called Monday for early parliamentary elections following its landslide victory in Senate elections held over the weekend.
+-------------------------------------------------
+0.5
+URGENT Pope calls for peace in peace with peace process
+Pope calls for peace in Ivory Coast
+Amid renewed violence in Ivory Coast, Pope John Paul II on Sunday called for dialogue and peace in the former French colony.
+-------------------------------------------------
+0.4953587998572467
+Explosion kills police in southern Russian city
+Explosion kills passenger in car in southern Russia
+An explosion ripped through a car that police had tried unsuccessfully to stop in the troubled southern Russian region of Dagestan, wounding the driver and killing the passenger, police said Friday.
+-------------------------------------------------
+0.47768754038252614
+Safin beats Safin at Paris Masters
+Safin downs Hewitt in thriller at Paris Masters
+"Sixth-seeded Marat Safin downed No. 2 Lleyton Hewitt 6-4, 7-6 (2) in a superb Paris Masters quarterfinal on Friday."
+-------------------------------------------------
+0.4692240322249475
+U . N . worker released in Afghanistan released in
+U.N. hostages in Afghanistan freed after nearly four weeks in captivity
+Three U.N. workers kidnapped in Afghanistan have been released unharmed after nearly four weeks in captivity, officials said Tuesday.
+-------------------------------------------------
+0.45241870901797976
+U . S . Secretary Secretary of State visits visit
+Senior U.S. official pays brief visit to Iraq
+U.S. Deputy Secretary of State Richard Armitage arrived in Baghdad for a brief visit, the U.S. Embassy confirmed Sunday
+-------------------------------------------------
+0.45241870901797976
+Malaysia ' s ruling party calls off three senior ministers
+Malaysia's ruling party suspends 16 members for buying votes
+Stepping up a crackdown on corruption, Malaysia's ruling party on Wednesday suspended 16 members, including a lawmaker, on suspicions of buying votes for senior offices, the national news agency reported.
+-------------------------------------------------
+0.45241870901797976
+Report : India to provide US$0 billion in energy pipeline
+Report: India to invest in Russian oil, gas projects
+India will invest US$3 billion (euro2.3 billion) in developing oil and gas fields in Russia to build a partnership in the energy sector, a news report said Sunday.
+-------------------------------------------------
+0.4444444444444444
+Israel sends its tanks to Israel over disputed incursion
+Hezbollah sends its first reconnaissance drone over Israel
+Hezbollah sent its first reconnaissance drone into Israeli territory Sunday, flying over Jewish settlements in response to repeated Israeli violations of Lebanese airspace, the militant Islamic group announced.
+-------------------------------------------------
+0.4444444444444444
+Colombian president approves extradition of extradition of Colombian president
+Colombian president authorizes extradition of Cali drug cartel leader
+Colombian President Alvaro Uribe late Monday authorized the extradition to the United States of drug kingpin Gilberto Rodriguez Orejuela, practically assuring the powerful trafficker will soon face American justice, the president's spokesman said.
+-------------------------------------------------
+0.4412484512922977
+Taiwanese opposition calls for action on presidential election
+Taiwan braces for court verdict on presidential election dispute
+"Taiwanese officials urged opposition leaders not to hold a new round of violent protests Thursday if the High Court refuses to nullify President Chen Shui-bian's narrow victory in the March presidential election."
+-------------------------------------------------
+0.42457146179884336
+' Gladiator ' ' wins the year of the year
+McGraw's 'Live Like You Were Dying' wins song of the year
+"Tim McGraw's ""Live Like You Were Dying"" won song of the year and single of the year, and Kenny Chesney took entertainer of the year and album of the year honors at the Country Music Association awards."
+-------------------------------------------------
+0.4166666666666667
+U . S . military says China has not not be violated
+Senior U.S. diplomat denies charge of protectionism against China
+A senior U.S. diplomat on Wednesday dismissed charges that recent U.S. actions against Chinese imports were protectionism, saying his country's huge trade deficit with China shows mainland goods have good access to America.
+-------------------------------------------------
+0.4
+Former rugby captain to become Scotland ' s rugby captain
+Former rugby league star Robinson named England rugby union captain
+Jason Robinson has become the first former rugby league player to captain England's rugby union team.
+-------------------------------------------------
+0.4
+Republicans Sweep Senate in Senate
+Republicans retain control of Senate
+Republicans tightened their grip on the Senate early Wednesday, capturing a string of Democratic seats across the South. Democratic leader Tom Daschle struggled for political survival in South Dakota.
+-------------------------------------------------
+0.4
+McDonald ' s ' s ' s ' Next of
+A timeline of McDonald's CEOs
+McDonald's Corp.'s recent CEO changes:
+-------------------------------------------------
+0.4
+URGENT Israeli Cabinet approves Arafat ' s first name for
+Israeli Cabinet officially approves Arafat burial in Ramallah
+The Israeli Cabinet on Wednesday officially approved a burial for Yasser Arafat in the West Bank city of Ramallah and has relayed the decision to the Palestinians, Israeli and Palestinian officials said.
+-------------------------------------------------
+0.4
+U . S . Marines capture Iraqi truck truck driver
+Marines, Iraqi forces free captive Iraqi truck driver
+Iraqi security forces, backed by U.S. Marines, freed a captive Iraqi truck driver during a raid south of Baghdad, the U.S. military said Wednesday.
+-------------------------------------------------
+0.4
+Henman , Henman advance in third round at Paris Masters
+Defending champion Henman bows out to Youzhny at Paris Masters
+"Defending champion and No. 3 seed Tim Henman suffered a 7-5, 6-1 loss to unseeded Russian Mikhail Youzhny in the third round of the Paris Masters on Thursday."
+-------------------------------------------------
+0.4
+Report : Yukos Yukos ' s stake in Yukos Yukos
+Court freezes Yukos' stake in Sibneft
+"A Russian court has frozen the Yukos oil company's stake in one-time merger partner, Sibneft, setting the stage for the possible confiscation of those shares by prosecutors, the business daily Vedomosti reported Wednesday."
+-------------------------------------------------
+0.4
+Japanese , Japanese prime ministers to meet at Asian summit
+Leaders of Japan, China to meet at APEC
+"Japanese Prime Minister Junichiro Koizumi and Chinese President Hu Jintao will hold a one-on-one meeting at the Asia-Pacific Economic Cooperation summit this weekend at a time of rising tension between the two nations, a Japanese official said Thursday."
+-------------------------------------------------
+0.375
+New Zealand marks anniversary of disaster anniversary anniversary
+New Zealand recalls 1979 Antarctic airliner disaster
+The single toll of a bell rang through a packed and silent Auckland Cathedral early Sunday at a memorial service to mark the 25th anniversary of New Zealand's worst air disaster.
+-------------------------------------------------
+0.375
+Nigerian authorities arrest prominent leader of Islamic leader
+Mauritania authorities arrest Islamist leader
+"Security forces arrested a top Islamist leader in Mauritania on Tuesday, one day after a government minister accused Islamic hard-liners in the country of distributing fake photos of tortured prisoners to the media."
+-------------------------------------------------
+0.375
+Swiss firefighters find Swiss firefighters in fire fire
+Seven Swiss firefighters die in collapsed parking garage
+Seven Swiss firefighters were killed in the collapse of a parking garage ceiling in a fire in northern Switzerland, officials said Sunday.
+-------------------------------------------------
+0.37225089001774603
+Norway ' s _UNK named national coach
+Norway's Rosenborg appoints new head coach, staff
+Norway's most successful soccer club, Rosenborg, named Per Joar Hansen as its new head coach Tuesday.
+-------------------------------------------------
+0.37151909989293497
+Facts of the Spanish soccer in Spain
+Quotes about racism in Spanish and European soccer
+"A sample of comments about recent soccer-related outbreaks of racism in Spain:"
+-------------------------------------------------
+0.36391839582758007
+Brazil loses World Cup after first round , Chile loses
+Brazil loses at Ecuador, Argentina takes over first place in World Cup qualifying group
+"Defending World Cup champion Brazil suffered another setback in South American qualifying Wednesday, while two-time champion Argentine held off a stubborn Venezuela 3-2 to take over first place in the 10-team group."
+-------------------------------------------------
+0.36391839582758007
+Stocks up in Mexico , Argentina , Argentina , Venezuela
+Stocks set another record in Mexico; end higher in Brazil, Argentina, Chile
+Mexican stocks followed their U.S. peers higher Thursday amid renewed hopes for economic growth as tension from the U.S. presidential election subsided.
+-------------------------------------------------
+0.36391839582758007
+U . S . troops in northern Iraq in fight
+U.S. troops wounded in Fallujah tell of fierce battle with Iraqi insurgents
+"U.S. troops who battled their way into Fallujah described on Monday how they came under massive fire from masked Islamic insurgents ""ready to fight to the death"" in house-to-house combat."
+-------------------------------------------------
+0.36193496721438384
+U . S . military says kidnapped American prisoner found
+U.S. troops find one hostage imprisoned in Fallujah
+The U.S. military said Thursday that one hostage was found imprisoned in Fallujah.
+-------------------------------------------------
+0.36193496721438384
+U . S . trade market to be up for
+U.S. dollar no longer accepted at Cuban businesses
+After a decade as the dominant currency to buy everything from shampoo to canned food to furniture, the U.S. dollar was eliminated from circulation Monday in Cuba.
+-------------------------------------------------
+0.36193496721438384
+Disney ' s union says they won ' t go
+Disney's union group votes on contract proposal _ again
+A week after union members rejected an almost identical deal, the largest union group at Walt Disney World will vote this week on a contract proposal for the fourth time since negotiations began in May.
+-------------------------------------------------
+0.35946317129377725
+Fujimori ' s son says U . S . authorities
+Peru's Fujimori on watch list blocking his entry into U.S., official says
+"Former President Alberto Fujimori is on a watch list barring his entry to the United States because of allegation of corruption and abuse during his decade-long authoritarian regime, a U.S. diplomatic official said."
+-------------------------------------------------
+0.33516002301781966
+International watchdog group criticizes media investigation in local journalist '
+International media watchdog group urges investiation of reporter assault in Mexican Gulf coast state
+The international media watchdog group Reporters Without Borders lauded officials from the Gulf coast state of Tabasco on Friday for opening an investigation into the assault on a journalist who had reported on alleged irregularities by government officials.
+-------------------------------------------------
+0.33516002301781966
+U . N . urges respect of two Muslim men
+U.N. appeals for release of hostages in spirit of Islamic festival
+"The United Nations appealed Thursday to the Taliban-linked kidnappers of three of its staff in Afghanistan to release them in time for a Muslim festival starting this weekend."
+-------------------------------------------------
+0.33516002301781966
+Trial of two men accused of plotting to kill terrorism
+Trial of 22 men accused of fighting coalition forces in Iraq opens in Kuwait
+Two defendants _ among 22 on trial _ pleaded not guilty Sunday to charges of involvement in fighting multinational forces in Iraq.
+-------------------------------------------------
+0.33516002301781966
+French prime minister says he was responsible for Arafat '
+Traveling in Mexico, French prime minister won't say what killed Arafat
+"French Prime Minister Jean-Pierre Raffarin said Thursday his country had a ""humanitarian responsibility"" to treat a dying Yasser Arafat, but ducked questions about what killed him."
+-------------------------------------------------
+0.3333333333333333
+URGENT EU , India sign agreement on economic ties
+EU to sign strategic partnership deal with India
+The European Union views a new strategic partnership deal with India as a means to tighten economic and political ties with an emerging power in South Asia.
+-------------------------------------------------
+0.3333333333333333
+Iraq ' s most than 00 percent of dollars in 0000 , U . S . report says
+Probe: Saddam's regime made more than $21 billion subverting U.N. sanctions
+"Over more than a decade, Saddam Hussein's government raised more than $21.3 billion (euro16.44 billion) in illegal revenue by subverting U.N. sanctions against Iraq including the humanitarian oil-for-food program, congressional investigators estimated."
+-------------------------------------------------
+0.3333333333333333
+U . N . tribunal accuses Milosevic of arrest of Yugoslav political
+Yugoslav war crimes prosecutor accuses Serbia of blocking handover of top fugitives
+The U.N. war crimes prosecutor for former Yugoslavia accused the government of Serbia and Montenegro of blocking the handover of top fugitives and dismissed Belgrade's promise of cooperation, saying she wants arrests not words.
+-------------------------------------------------
+0.3333333333333333
+Crown Crown Crown to Visit Thailand
+Norwegian crown prince to visit Thailand
+"The Crown Prince and Crown Princess of Norway will pay an official visit to Thailand on Nov. 23-26, the Thai foreign ministry announced Tuesday."
+-------------------------------------------------
+0.3309363384692233
+Venables to coach new coach for new coach
+Toshack favorite as Wales set to announce new coach
+Wales is set to announce its new soccer coach on Friday with John Toshack favored to get the job for the second time.
+-------------------------------------------------
+0.3309363384692233
+Japan to pressure aid aid for North Korea
+Japan considers sanctions against North Korea after abduction talks
+Japan on Tuesday warned it would consider withholding food aid for North Korea and other sanctions after accusing the communist country of failing to properly investigate the fates of Japanese citizens it kidnapped years ago.
+-------------------------------------------------
+0.32928698165641584
+GM to cut 0 , 000 jobs plant in Hawaii
+GM to lay off most of 1,000 New Jersey plant workers in early 2005
+General Motors Corp. will lay off most of the more than 1,000 workers at a New Jersey assembly plant early next year, months ahead of its original plans to stop making two vehicles there, a company spokesman said Tuesday.
+-------------------------------------------------
+0.3274923012311928
+Li wins first singles title
+Stephen Dodd wins first China Open
+"Wales' Stephen Dodd won the season-opening China Open for his first PGA European Tour title, shooting a 4-under 68 on Sunday for a three-stroke victory over Denmark's Thomas Bjorn."
+-------------------------------------------------
+0.3274923012311928
+Sri Lanka ' s peace talks resume in Sri Lanka
+Main opposition parties boycott Sri Lankan government's latest peace initiative
+"An all-party forum to discuss Sri Lanka's stalled peace process faltered on its first day Monday when three main opposition parties, including one considered a proxy for the Tamil Tiger rebels, boycotted the event."
+-------------------------------------------------
+0.3274923012311928
+Bush to name new adviser on Cabinet ' s Cabinet
+Bush taps Rice to replace Powell as nation's top diplomat
+"President George W. Bush promoted his most trusted foreign policy adviser to Secretary of State on Tuesday, tapping Condoleezza Rice to replace warrior-turned-diplomat Colin Powell as part of a sweeping second-term Cabinet overhaul."
+-------------------------------------------------
+0.3274923012311928
+Former EU ambassador to become EU ' s European Union
+Andris Piebalgs tapped to be Latvia's choice for EU commission
+Latvia selected its former ambassador to the European Union, Andris Piebalgs, on Tuesday to become the country's commissioner in the team of incoming European Commission President Jose Manuel Barroso.
+-------------------------------------------------
+0.3274923012311928
+Auto Production in Brazil Hit
+Brazil auto production drops in October
+Output by Brazil's auto industry dropped in October, halting five straight months of production increases, the national automakers association said Friday.
+-------------------------------------------------
+0.3274923012311928
+U . S . Embassy closes security in Macedonia because
+Security problem forces U.S. embassy closure for some services
+The United States closed its embassy in Skopje, Macedonia on Monday to all but essential business because of a potential security threat, the State Department said.
+-------------------------------------------------
+0.30769230769230765
+Bush ' s next day of Greenspan ' s future is a day
+Bush's big economic pick will be next Fed chairman
+While President George W. Bush is busy putting together his Cabinet for a second term, the financial world's attention is on a job vacancy 14 months away: Who will succeed Federal Reserve Chairman Alan Greenspan?
+-------------------------------------------------
+0.30668147154310776
+Club owner to play Singapore soccer soccer soccer to South Asian soccer
+Cameroon club bids to be first to cross continents to play in Singapore
+"A Cameroon club is bidding to be the third foreign team to play in Singapore's domestic soccer league and, its president said, will likely become the first team to fly across continents to play professionally on a full-time basis."
+-------------------------------------------------
+0.3032653298563167
+Car bomb kills one at bus district in southern Afghanistan
+Car bomb in Kirkuk kills one, injures 14, as governor escapes assassination attempt
+A car bomb exploded on Thursday near the convoy carrying the governor of northern Kirkuk, killing one bystander and injuring 14 people, including four policemen, the police said.
+-------------------------------------------------
+0.3032653298563167
+Safin beats Safin to win final
+Safin beats Stepanek to clinch third Paris Masters crown
+"Sixth-seeded Marat Safin of Russia comfortably beat Radek Stepanek of the Czech Republic 6-3, 7-6 (5), 6-3 to win a record-equaling third Paris Masters title on Sunday, putting him level with Boris Becker."
+-------------------------------------------------
+0.3
+Arafat , Arafat express concern over Arafat ' s death
+European leaders salute Arafat's devotion to Palestinian cause
+European leaders on Thursday saluted Yasser Arafat's devotion to the Palestinian cause, mostly focusing on the positive side of his controversial legacy and expressing hope that his death might create an opportunity to achieve his dream of an independent state.
+-------------------------------------------------
+0.3
+Ukrainian prime minister meets with Vietnam ' s communist counterpart
+Belarusian prime minister visits Vietnam to boost ties
+The Belarusian prime minister met his Vietnamese counterpart in Hanoi on Monday during a visit aimed at boosting ties between the two countries.
+-------------------------------------------------
+0.3
+URGENT U . S . soldier killed in ambush on
+US soldier reported killed in southern Baghdad
+An insurgent attack on a U.S. military patrol killed one American soldier in southern Baghdad, the U.S. command said Wednesday.
+-------------------------------------------------
+0.2982797722714565
+URGENT Marines capture 00 suspects in raid against insurgents
+Marines and Iraqi forces capture 18 insurgents south of Baghdad
+U.S. Marines and Iraqi National Guardsmen captured 18 suspected insurgents Saturday and seized weapons and munitions during raids south of Baghdad, the U.S. military reported.
+-------------------------------------------------
+0.2963272882726872
+Man accused of abusing chest in hospital after being removed
+Man accused of starving four children is unconscious after stroke, pastor says
+A man accused of starving his four adopted sons was in a coma Monday after suffering a massive stroke, according to officials of his church.
+-------------------------------------------------
+0.2920502936517768
+Pakistan names eight _UNK for _UNK ' '
+Pakistan names one wicketkeeper among probables for tough Australia tour
+Pakistani selectors on Tuesday excluded veteran wicketkeepers Rashid Latif and Moin Khan from the list of 25 probables for next month's cricket tour of Australia.
+-------------------------------------------------
+0.2885165540637645
+Japanese soldier says North Korean soldier is kidnapped by North Korea
+U.S. Army deserter Jenkins says Japanese wife abducted to North Korea by mistake
+North Korean spies inadvertently kidnapped a Japanese nurse when they were looking for teachers, U.S. Army deserter to the North Charles Jenkins says, a mistake that helped start an unlikely Cold War alliance when she became his wife.
+-------------------------------------------------
+0.2857142857142857
+Police arrest 00 people in prison riot
+Police storm Brazil prison after rebellion
+Police on Tuesday stormed a prison in the northeastern state of Bahia to quell a riot that injured six inmates, police said.
+-------------------------------------------------
+0.2857142857142857
+Iran says it will accept nuclear program
+Iran optimistic of nuclear compromise with Europe
+President Mohammad Khatami said Tuesday it was possible Iran would continue suspension of uranium enrichment and that he was hopeful of a compromise with Europe over its nuclear program.
+-------------------------------------------------
+0.2857142857142857
+Republicans Sweep N . C . Senate
+Republicans retain control of Senate
+Republicans renewed their grip on the Senate and reached out for more, capturing Democratic seats across the south. Democratic leader Tom Daschle faced a strong challenge in South Dakota.
+-------------------------------------------------
+0.2852317327958845
+Unions plan to join banks in the United States
+Unions say they will mobilize unions in the United States and Europe against James Hardie
+Australian unions said Friday they will encourage unions in the United States and Europe to launch protests against building products giant James Hardie if local asbestos victims are not adequately compensated.
+-------------------------------------------------
+0.28496906152442425
+Champions League : Deportivo 0 , Atletico Madrid 0
+Kiev 2, Madrid 2 as Champions League Group B stays wide open
+"Real Madrid came back from two goals down to salvage a 2-2 draw against Dynamo Kiev in their Champions League match Wednesday, leaving Group B wide open with two matches remaining."
+-------------------------------------------------
+0.2791881675133095
+Czechs to join EU membership for Turkey
+Czechs in favor of starting EU admission talks with Turkey
+The Czech Republic will support the start of negotiations for Turkey to join the European Union, the government said Wednesday.
+-------------------------------------------------
+0.2791881675133095
+Fire in pipeline fire in northern pipeline
+Fire erupts in main southern oil pipeline, firefighters say
+A large fire erupted Sunday in a main oil pipeline in the south after smugglers broke the line to steal oil, firefighters said.
+-------------------------------------------------
+0.2744058180470132
+Ukrainian presidential candidate says presidential elections in Ukraine ' s
+Prime minister and challenger less than a percentage point apart in Ukraine's presidential race
+Prime Minister Viktor Yanukovych and his reformist challenger in Ukraine's presidential election were less than a percentage point apart with nearly all the votes counted, forcing a runoff, the Central Election Commission said Monday.
+-------------------------------------------------
